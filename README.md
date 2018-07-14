@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://ws4.sinaimg.cn/large/006tKfTcgy1fhu01y9uy7j305k04s3yc.jpg" alt="ADPlayer" width="100">
 </p>
+
 # vue-dplayer-hls
 
 > vue2.0+vue-dplayer实现hls播放的示例
