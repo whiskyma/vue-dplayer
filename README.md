@@ -1,6 +1,6 @@
-# vue
+# vue-dplayer-hls
 
-> vue this is vue
+> vue2.0+vue-dplayer实现hls播放的示例
 
 ## Build Setup
 
